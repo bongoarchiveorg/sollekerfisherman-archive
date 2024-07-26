@@ -1,0 +1,20 @@
+baseurl: ''
+description: |
+  অ্যারোনিক content , rege jeo na বস 😸
+  gatekeep
+footer_website: bongoarchive.org
+header_img: media/solleker_fisherman.jpg
+ig_category: null
+ig_userid: '66837516731'
+ig_username: solleker_fisherman
+ig_website: null
+include:
+- media
+name: "fish\u09AC\u09BF\u0995\u09CD\u09B0\u09C7\u09A4\u09BE"
+plugins:
+- jekyll-remote-theme
+remote_theme: diptanilsaha/jekyll-theme-instagram
+theme_config:
+- archive: true
+title: solleker_fisherman
+url: 'https://sollekerfisherman.bongoarchive.org'
